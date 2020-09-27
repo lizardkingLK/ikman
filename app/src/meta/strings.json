@@ -1,0 +1,16 @@
+{
+    "appName": "ikman",
+    "appCaption": "SRI LANKA'S LARGEST MARKETPLACE",
+
+    "scrLoading": "loadingscreen",
+    "scrHome": "homescreen",
+
+    "titleHome": "Home",
+
+    "primaryLight": "#f2f2f2",
+    "primaryDark": "#333333",
+    "primaryAccent": "#4864e6",
+    "secondaryAccent": "#5675ff",
+
+    "btnTitleBrowse": "Browse"
+}
